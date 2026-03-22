@@ -42,9 +42,7 @@ src/
 
 ⚙️ Installation
 
-Clone the repository:
 
-git clone https://github.com/your-username/taskflow-app.git
 cd taskflow-app
 
 Install dependencies:
